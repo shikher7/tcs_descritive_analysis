@@ -1,0 +1,6 @@
+	ip	public_mode	password_mode	connections	first_start	last_exit	total_duration(sec)
+0	157.227.25.219	14	5	19	0	85	13
+1	157.227.25.54	9	5	14	3	82	19729
+2	157.227.25.50	7	5	12	4	90	21106
+3	157.227.25.150	5	11	16	7	89	1264
+4	157.227.25.78	17	19	36	8	97	16
